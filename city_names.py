@@ -1,12 +1,11 @@
 import os
 
 from overpy import Overpass, Result
-from overpy.exception import OverpassGatewayTimeout, OverpassTooManyRequests
 from time import sleep
 
 from logger import get_logger
 
-DIR: str = "./cities2"
+DIR: str = "./cities"
 SLEEP: int = 5
 MAX_TRIES: int = 10
 
@@ -36,7 +35,7 @@ def download_city_names() -> None:
             while tries < MAX_TRIES:
                 try:
                     result = api.query(f"""
-                        [out:json];
+                        [out:json][timeout:1000];
                         area["name:en"="{country}"];
                         (
                           node["place"~"city|town"]["place"!="city_block"](area);
@@ -44,7 +43,7 @@ def download_city_names() -> None:
                         out;
                         """)
                     break
-                except (OverpassGatewayTimeout, OverpassTooManyRequests) as e:
+                except Exception as e:
                     logger.error(f"{e}")
                     logger.info(f"Trying again...")
                     sleep(SLEEP)

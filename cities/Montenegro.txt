@@ -1,39 +1,39 @@
-Kotor
-Budva
-Perast
+Andrijevica
 Bar
+Berane
+Bijela
+Bijelo Polje
+Budva
+Cetinje
+Danilovgrad
+Dobrota
+Gradac
+Gusinje
 Herceg Novi
+Igalo
+Kolašin
+Kotor
+Mojkovac
+Nikšić
+Perast
+Petnjica
+Petrovac na Moru
+Plav
+Pljevlja
+Plužine
 Podgorica
+Prčanj
+Rijeka Crnojevića
+Risan
+Rožaje
+Spuž
+Stari Bar
+Sutomore
+Sveti Stefan
+Tivat
+Tuzi
 Ulcinj - Ulqin
 Virpazar
-Bijela
-Cetinje
-Nikšić
-Plužine
-Žabljak
-Kolašin
-Pljevlja
-Rožaje
-Tivat
-Bijelo Polje
-Mojkovac
-Berane
-Andrijevica
-Plav
-Petnjica
-Stari Bar
-Sveti Stefan
-Risan
-Danilovgrad
 Zelenika
-Spuž
-Rijeka Crnojevića
-Dobrota
-Prčanj
-Petrovac na Moru
-Sutomore
 Šavnik
-Igalo
-Tuzi
-Gusinje
-Gradac
+Žabljak

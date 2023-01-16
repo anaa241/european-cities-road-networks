@@ -5,8 +5,8 @@ from functools import partial
 from multiprocessing import Pool
 from logger import get_logger
 
-ROAD_NETWORKS_DIR: str = './road_networks2'
-CITIES_DIR: str = "./cities2"
+ROAD_NETWORKS_DIR: str = './road_networks'
+CITIES_DIR: str = "./cities"
 
 
 def process_city(country: str, city: str) -> None:
@@ -21,7 +21,7 @@ def process_city(country: str, city: str) -> None:
     try:
         G: MultiDiGraph = ox.graph_from_place(query, network_type="drive")
         ox.save_graphml(G, city_filename)
-        logging.info(f"{query} road network saved")
+        logger.info(f"{query} road network saved")
     except Exception as e:
         logger.error(f"{e}")
 

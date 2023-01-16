@@ -1,69 +1,69 @@
-Ljubljana
-Postojna
-Piran / Pirano
-Izola / Isola
-Kranj
-Murska Sobota
-Celje
 Ajdovščina
-Kamnik
-Slovenske Konjice
-Ptuj
-Maribor
-Slovenska Bistrica
-Tržič
+Bled
 Bovec
-Nova Gorica
 Brežice
-Domžale
-Škofja Loka
-Železniki
-Mengeš
-Medvode
-Litija
-Grosuplje
-Velenje
-Novo mesto
-Trebnje
-Krško
-Trbovlje
-Hrastnik
-Zagorje ob Savi
-Radeče
-Sevnica
-Črnomelj
-Kočevje
-Ribnica
-Vrhnika
-Logatec
-Slovenj Gradec
-Dravograd
-Šentjur
+Celje
 Cerknica
-Jesenice
+Domžale
+Dravograd
 Gornja Radgona
-Ruše
-Ormož
-Šoštanj
+Grosuplje
+Hrastnik
+Idrija
+Ilirska Bistrica
+Izola / Isola
+Jesenice
+Kamnik
+Koper / Capodistria
+Kostanjevica na Krki
+Kočevje
+Kranj
+Krško
+Laško
 Lenart
 Lendava / Lendva
-Rogaška Slatina
-Laško
+Litija
+Ljubljana
 Ljutomer
-Žalec
-Radovljica
-Mežica
-Ravne na Koroškem
-Tolmin
-Idrija
-Prevalje
-Višnja Gora
-Kostanjevica na Krki
-Sežana
-Bled
-Šempeter pri Gorici
-Ilirska Bistrica
-Koper / Capodistria
-Zreče
+Logatec
+Maribor
+Medvode
+Mengeš
 Metlika
+Mežica
+Murska Sobota
+Nova Gorica
+Novo mesto
+Ormož
+Piran / Pirano
+Postojna
+Prevalje
+Ptuj
+Radeče
+Radovljica
+Ravne na Koroškem
+Ribnica
+Rogaška Slatina
+Ruše
+Sevnica
+Sežana
+Slovenj Gradec
+Slovenska Bistrica
+Slovenske Konjice
+Tolmin
+Trbovlje
+Trebnje
+Tržič
+Velenje
+Višnja Gora
+Vrhnika
+Zagorje ob Savi
+Zreče
+Črnomelj
+Šempeter pri Gorici
+Šentjur
+Škofja Loka
+Šoštanj
+Žalec
+Železniki
 Žiri

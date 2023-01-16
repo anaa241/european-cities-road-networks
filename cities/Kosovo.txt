@@ -1,30 +1,30 @@
-Prizren
-Shtime
-Podujevë
-Kamenicë
-Lipjan
-Klinë
-Obiliq
-Fushë Kosovë
-Vushtrri
-Leposavić
-Dragash
-Rahovec
-Gjakovë
-Mitrovicë
-Suharekë
 Deçan
-Ferizaj
-Zvečan
+Dragash
 Drenas
-Skënderaj
-Zubin Potok
-Štrpce
-Prishtinë
-Istog
-Pejë
-Viti
-Kaçanik
-Severna Kosovska Mitrovica - Mitrovicë Veriore
-Malishevë
+Ferizaj
+Fushë Kosovë
+Gjakovë
 Gjilan
+Istog
+Kamenicë
+Kaçanik
+Klinë
+Leposavić
+Lipjan
+Malishevë
+Mitrovicë
+Obiliq
+Pejë
+Podujevë
+Prishtinë
+Prizren
+Rahovec
+Severna Kosovska Mitrovica - Mitrovicë Veriore
+Shtime
+Skënderaj
+Suharekë
+Viti
+Vushtrri
+Zubin Potok
+Zvečan
+Štrpce

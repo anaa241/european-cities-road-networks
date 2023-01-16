@@ -1,128 +1,129 @@
-Rijeka
-Novigrad
-Poreč
-Rovinj
-Trogir
-Cres
 Bakar
-Opatija
-Mali Lošinj
-Makarska
-Ogulin
-Rab
-Krk
-Novalja
-Osijek
-Buzet
-Šibenik
-Vodice
-Komiža
-Biograd na Moru
-Stari Grad
-Nova Gradiška
-Labin
-Kutina
-Valpovo
-Belišće
-Donji Miholjac
-Korčula
-Našice
-Velika Gorica
-Karlovac
-Duga Resa
-Jastrebarsko
-Senj
-Vukovar
-Varaždin
-Metković
-Knin
-Čabar
-Novi Marof
-Virovitica
-Orahovica
-Kutjevo
-Sisak
-Križevci
-Koprivnica
-Đurđevac
 Beli Manastir
-Opuzen
-Nin
-Prelog
+Belišće
+Benkovac
+Biograd na Moru
 Bjelovar
-Slatina
-Županja
-Vrbovsko
-Ilok
-Sveti Ivan Zelina
-Pleternica
-Sinj
-Varaždinske Toplice
-Popovača
-Sveta Nedelja
-Gospić
-Lipik
-Pakrac
-Novska
-Garešnica
-Donja Stubica
-Drniš
+Buje
+Buzet
+Cres
+Crikvenica
+Daruvar
 Delnice
-Čazma
+Donja Stubica
+Donji Miholjac
+Drniš
+Dubrovnik
+Duga Resa
+Dugo Selo
+Garešnica
+Glina
+Gospić
+Grubišno Polje
+Hrvatska Kostajnica
+Hvar
+Ilok
+Imotski
 Ivanec
 Ivanić-Grad
-Hrvatska Kostajnica
-Grubišno Polje
-Klanjec
-Kraljevica
-Lepoglava
-Obrovac
-Otočac
-Otok
-Ozalj
-Pregrada
-Vrlika
-Kaštela
-Čakovec
-Dugo Selo
-Vis
-Mursko Središće
-Ludbreg
-Split
-Zagreb
-Trilj
-Oroslavje
-Daruvar
-Vrbovec
-Umag
-Vodnjan
+Jastrebarsko
+Karlovac
 Kastav
-Slunj
-Dubrovnik
-Omiš
-Solin
-Vrgorac
-Požega
-Đakovo
-Slavonski Brod
-Vinkovci
-Skradin
-Pag
-Zaprešić
-Hvar
-Pula
-Zadar
-Pazin
-Crikvenica
-Zabok
-Novi Vinodolski
-Samobor
-Petrinja
-Ploče
-Buje
-Glina
-Supetar
-Benkovac
-Imotski
+Kaštela
+Klanjec
+Knin
+Komiža
+Koprivnica
+Korčula
+Kraljevica
 Krapina
+Križevci
+Krk
+Kutina
+Kutjevo
+Labin
+Lepoglava
+Lipik
+Ludbreg
+Makarska
+Mali Lošinj
+Metković
+Mursko Središće
+Našice
+Nin
+Nova Gradiška
+Novalja
+Novi Marof
+Novi Vinodolski
+Novigrad
+Novska
+Obrovac
+Ogulin
+Omiš
+Opatija
+Opuzen
+Orahovica
+Oroslavje
+Osijek
+Otok
+Otočac
+Ozalj
+Pag
+Pakrac
+Pazin
+Petrinja
+Pleternica
+Ploče
+Popovača
+Poreč
+Požega
+Pregrada
+Prelog
+Pula
+Rab
+Rijeka
+Rovinj
+Samobor
+Senj
+Sesvete
+Sinj
+Sisak
+Skradin
+Slatina
+Slavonski Brod
+Slunj
+Solin
+Split
+Stari Grad
+Supetar
+Sveta Nedelja
+Sveti Ivan Zelina
+Trilj
+Trogir
+Umag
+Valpovo
+Varaždin
+Varaždinske Toplice
+Velika Gorica
+Vinkovci
+Virovitica
+Vis
+Vodice
+Vodnjan
+Vrbovec
+Vrbovsko
+Vrgorac
+Vrlika
+Vukovar
+Zabok
+Zadar
+Zagreb
+Zaprešić
 Zlatar
+Čabar
+Čakovec
+Čazma
+Đakovo
+Đurđevac
+Šibenik
+Županja

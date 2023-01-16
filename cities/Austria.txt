@@ -1,238 +1,238 @@
-Wien
-Purkersdorf
-Graz
-Linz
-Zell am See
-Wels
-Leoben
-Voitsberg
-Köflach
-Wiener Neustadt
-Mattersburg
-Eisenstadt
-Wörgl
-Kufstein
-Neulengbach
 Alland
-Hainfeld
-Stockerau
-Korneuburg
-Purbach am Neusiedler See
-Rust
-Puchberg am Schneeberg
-Bruck an der Leitha
-Orth an der Donau
-Melk
-Villach
-Klagenfurt
-Heiligenblut
-Gmunden
-Kirchdorf an der Krems
-Greifenburg
-Möllbrücke
-Spittal an der Drau
-St. Johann in Tirol
-Feldkirch
+Altheim
+Althofen
+Amstetten
+Ansfelden
+Arnoldstein
+Attnang-Puchheim
+Bad Aussee
+Bad Bleiberg
+Bad Eisenkappel/Železna Kapla
+Bad Hall
+Bad Ischl
+Bad Leonfelden
+Bad Radkersburg
+Bad Sankt Leonhard im Lavanttal
 Bad Vöslau
 Baden
 Berndorf
-Schärding
-Innsbruck
-Oberpullendorf/Felsőpulya
-Mank
-Fehring
-Jennersdorf
-Gleisdorf
-Fürstenfeld
-Frohnleiten
-Bruck an der Mur
-Leibnitz
-Deutschlandsberg
-Lavamünd
-Kapfenberg
-Mürzzuschlag
-Mureck
-Salzburg
-Oberwart/Felsőőr
-Ried im Innkreis
-Seeboden
-Radenthein
-Millstatt
-Heidenreichstein
-Litschau
-Gmünd
-Neufeld an der Leitha
-Pregarten
-Waidhofen an der Thaya
-Weitra
-Zistersdorf
-Mistelbach
-Ernstbrunn
-Eggenburg
-Laa an der Thaya
-Horn
-Gallneukirchen
-Bad Leonfelden
-Grein
-Perg
-Enns
-Hollabrunn
-Pöchlarn
-Strasshof an der Nordbahn
-Geras
-Tulln an der Donau
-Murau
-Herzogenburg
-Maissau
-Amstetten
-Scheibbs
-Neusiedl am See
-Waidhofen an der Ybbs
-Imst
-Mariazell
-Telfs
-Landeck
-Dornbirn
-Haag
-Mittersill
-Pinkafeld
-Poysdorf
-Altheim
-Grieskirchen
-Rattenberg
-Ybbs an der Donau
-Pulkau
-Raabs an der Thaya
-Gars am Kamp
-Traismauer
-Liezen
-Griffen
-Götzis
-Groß Gerungs
-Tamsweg
-Gurk
-Weitensfeld im Gurktal
-Hermagor
-Völkermarkt
-Radstadt
-Judenburg
-Zeltweg
-Kindberg
-Frauenkirchen
-Lienz
-Schladming
-Braunau am Inn
-Jenbach
-Ternitz
-Drosendorf
-Rankweil
-Wieselburg
-Vils
-St. Pölten
-Wolkersdorf im Weinviertel
-Marchegg
-Retz
-Bad Radkersburg
-Sillian
-Steinach am Brenner
-Schrems
-Matrei am Brenner
-Winklern
-Neumarkt am Wallersee
-Traiskirchen
-Gmünd
-Bad Bleiberg
-Hartberg
-St. Valentin
-Straßburg
-Velden am Wörther See
-Fulpmes
-Fischamend
-Arnoldstein
-Reutte
-Zwettl
-Mödling
-Rottenmann
-Laakirchen
-Ansfelden
-Seekirchen am Wallersee
-Weiz
-Sankt Veit an der Glan
-Trofaiach
-Ferlach
-Sankt Johann im Pongau
-Pörtschach am Wörthersee
-Kötschach
-Güssing
-Lilienfeld
-Traun
-Purgstall
-Hopfgarten im Brixental
-Sölden
-Bad Sankt Leonhard im Lavanttal
-Hohenems
-Steyr
-Gänserndorf
-Obervellach
-Peuerbach
-Mayrhofen
-Neunkirchen
-Wilhelmsburg
-Finkenstein
-Freistadt
-Pressbaum
-Leonding
-Mannersdorf am Leithagebirge
-Hainburg an der Donau
-Eferding
-Ehrwald
-Steyregg
-Vöcklabruck
-Althofen
-Loosdorf
-Bludenz
-Ebreichsdorf
-Lustenau
-Pernitz
-Groß-Enzersdorf
-Bad Ischl
-Bad Eisenkappel/Železna Kapla
-Neustift im Stubaital
-Bad Hall
-Mattighofen
-Wattens
-Feldkirchen in Kärnten
-Matrei in Osttirol
-Wolfsberg
-Brixlegg
-Gloggnitz
-Schwechat
-Pöllau
-Zell am Ziller
-Eisenerz
-Marchtrenk
-Sankt Andrä
-Gföhl
-Krems an der Donau
-Friesach
-Langenlois
-Feistritz an der Drau
-Steinfeld
-Schwanenstadt
-Deutsch-Wagram
-Klosterneuburg
-Saalfelden am Steinernen Meer
-Oberndorf bei Salzburg
-Kitzbühel
 Bischofshofen
+Bleiburg/Pliberk
+Bludenz
+Braunau am Inn
+Bregenz
+Brixlegg
+Bruck an der Leitha
+Bruck an der Mur
+Deutsch-Wagram
+Deutschlandsberg
+Dornbirn
+Drosendorf
+Ebreichsdorf
+Eferding
+Eggenburg
+Ehrwald
+Eisenerz
+Eisenstadt
+Enns
+Ernstbrunn
+Fehring
+Feistritz an der Drau
+Feldbach
+Feldkirch
+Feldkirchen in Kärnten
+Ferlach
+Finkenstein
+Fischamend
+Frauenkirchen
+Freistadt
+Friesach
+Frohnleiten
+Fulpmes
+Fürstenfeld
+Gallneukirchen
+Gars am Kamp
+Geras
+Gföhl
+Gleisdorf
+Gloggnitz
+Gmunden
+Gmünd
+Gmünd
+Gratwein-Straßengel
+Graz
+Greifenburg
+Grein
+Grieskirchen
+Griffen
+Groß Gerungs
+Groß-Enzersdorf
+Gurk
+Gänserndorf
+Götzis
+Güssing
+Haag
+Hainburg an der Donau
+Hainfeld
 Hall in Tirol
 Hallein
-Bregenz
-Bleiburg/Pliberk
-Schwaz
-Attnang-Puchheim
-Feldbach
-Rohrbach-Berg
-Gratwein-Straßengel
-Bad Aussee
+Hartberg
+Heidenreichstein
+Heiligenblut
+Hermagor
+Herzogenburg
+Hohenems
+Hollabrunn
+Hopfgarten im Brixental
+Horn
+Imst
+Innsbruck
+Jenbach
+Jennersdorf
+Judenburg
+Kapfenberg
+Kindberg
+Kirchdorf an der Krems
+Kitzbühel
+Klagenfurt
+Klosterneuburg
 Knittelfeld
+Korneuburg
+Krems an der Donau
+Kufstein
+Köflach
+Kötschach
+Laa an der Thaya
+Laakirchen
+Landeck
+Langenlois
+Lavamünd
+Leibnitz
+Leoben
+Leonding
+Lienz
+Liezen
+Lilienfeld
+Linz
+Litschau
+Loosdorf
+Lustenau
+Maissau
+Mank
+Mannersdorf am Leithagebirge
+Marchegg
+Marchtrenk
+Mariazell
+Matrei am Brenner
+Matrei in Osttirol
+Mattersburg
+Mattighofen
+Mayrhofen
+Melk
+Millstatt
+Mistelbach
+Mittersill
+Murau
+Mureck
+Mödling
+Möllbrücke
+Mürzzuschlag
+Neufeld an der Leitha
+Neulengbach
+Neumarkt am Wallersee
+Neunkirchen
+Neusiedl am See
+Neustift im Stubaital
+Oberndorf bei Salzburg
+Oberpullendorf/Felsőpulya
+Obervellach
+Oberwart/Felsőőr
+Orth an der Donau
+Perg
+Pernitz
+Peuerbach
+Pinkafeld
+Poysdorf
+Pregarten
+Pressbaum
+Puchberg am Schneeberg
+Pulkau
+Purbach am Neusiedler See
+Purgstall
+Purkersdorf
+Pöchlarn
+Pöllau
+Pörtschach am Wörthersee
+Raabs an der Thaya
+Radenthein
+Radstadt
+Rankweil
+Rattenberg
+Retz
+Reutte
+Ried im Innkreis
+Rohrbach-Berg
+Rottenmann
+Rust
+Saalfelden am Steinernen Meer
+Salzburg
+Sankt Andrä
+Sankt Johann im Pongau
+Sankt Veit an der Glan
+Scheibbs
+Schladming
+Schrems
+Schwanenstadt
+Schwaz
+Schwechat
+Schärding
+Seeboden
+Seekirchen am Wallersee
+Sillian
+Spittal an der Drau
+St. Johann in Tirol
+St. Pölten
+St. Valentin
+Steinach am Brenner
+Steinfeld
+Steyr
+Steyregg
+Stockerau
+Strasshof an der Nordbahn
+Straßburg
+Sölden
+Tamsweg
+Telfs
+Ternitz
+Traiskirchen
+Traismauer
+Traun
+Trofaiach
+Tulln an der Donau
+Velden am Wörther See
+Villach
+Vils
+Voitsberg
+Vöcklabruck
+Völkermarkt
+Waidhofen an der Thaya
+Waidhofen an der Ybbs
+Wattens
+Weitensfeld im Gurktal
+Weitra
+Weiz
+Wels
+Wien
+Wiener Neustadt
+Wieselburg
+Wilhelmsburg
+Winklern
+Wolfsberg
+Wolkersdorf im Weinviertel
+Wörgl
+Ybbs an der Donau
+Zell am See
+Zell am Ziller
+Zeltweg
+Zistersdorf
+Zwettl

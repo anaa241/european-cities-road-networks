@@ -1,158 +1,158 @@
-Rača
-Zvolen
-Handlová
-Púchov
-Žarnovica
-Šurany
-Galanta
-Nová Baňa
-Veľký Šariš
-Hanušovce nad Topľou
-Šaštín-Stráže
-Považská Bystrica
-Martin
-Kežmarok
-Topoľčany
-Hnúšťa
-Turzovka
-Banská Štiavnica
-Gabčíkovo
-Poltár
-Ilava
-Stará Turá
-Partizánske
-Vráble
-Hlohovec
-Levoča
-Myjava
-Turčianske Teplice
-Krompachy
-Michalovce
-Šamorín
-Svit
-Humenné
-Medzilaborce
-Sabinov
-Dubnica nad Váhom
-Snina
-Rimavská Sobota
-Spišská Stará Ves
-Bojnice
-Námestovo
-Krupina
-Sečovce
-Malacky
-Nesvady
-Dolný Kubín
-Trenčianske Teplice
-Stupava
-Rožňava
-Veľký Meder
-Liptovský Hrádok
-Tornaľa
-Kremnica
-Tisovec
-Kráľovský Chlmec
-Kolárovo
-Žilina
-Kysucké Nové Mesto
-Šahy
-Holíč
-Čierna nad Tisou
-Nemšová
-Trenčín
-Sobrance
-Sládkovičovo
-Spišská Nová Ves
-Trebišov
-Nováky
-Vrbové
-Revúca
-Tlmače
-Želiezovce
-Modrý Kameň
-Bánovce nad Bebravou
-Stará Ľubovňa
-Zlaté Moravce
-Komárno
-Lučenec
-Bardejov
-Skalica
-Spišské Vlachy
-Dobšiná
-Veľký Krtíš
-Piešťany
-Krásno nad Kysucou
-Štúrovo
-Dudince
-Spišská Belá
-Brezno
-Prešov
-Fiľakovo
-Stropkov
-Dunajská Streda
-Leopoldov
-Nové Mesto nad Váhom
-Čadca
-Pezinok
-Podolínec
-Trnava
-Sliač
-Tvrdošín
-Hriňová
-Rajecké Teplice
-Gbely
-Ružomberok
-Liptovský Mikuláš
 Banská Bystrica
-Nová Dubnica
-Giraltovce
-Strážske
-Hurbanovo
-Senec
-Jelšava
-Detva
+Banská Štiavnica
+Bardejov
+Bojnice
+Bratislava
+Brezno
 Brezová pod Bradlom
-Spišské Podhradie
+Bytča
+Bánovce nad Bebravou
+Detva
+Devín
+Devínska Nová Ves
+Dobšiná
+Dolný Kubín
+Dubnica nad Váhom
+Dudince
+Dunajská Streda
+Dúbravka
+Fiľakovo
+Gabčíkovo
+Galanta
+Gbely
 Gelnica
-Prievidza
-Vrútky
-Trstená
-Nové Zámky
-Turany
-Svidník
-Rajec
-Veľké Kapušany
-Sereď
-Vysoké Tatry
-Vranov nad Topľou
-Žiar nad Hronom
+Giraltovce
+Handlová
+Hanušovce nad Topľou
+Hlohovec
+Hnúšťa
+Holíč
+Hriňová
+Humenné
+Hurbanovo
+Ilava
+Jarovce
+Jelšava
+Karlova Ves
+Kežmarok
+Kolárovo
+Komárno
+Košice
+Kremnica
+Krompachy
+Krupina
+Krásno nad Kysucou
+Kráľovský Chlmec
+Kysucké Nové Mesto
+Lamač
+Leopoldov
+Levice
+Levoča
+Lipany
+Liptovský Hrádok
+Liptovský Mikuláš
+Lučenec
+Malacky
+Martin
+Medzev
+Medzilaborce
+Michalovce
 Modra
-Poprad
+Modrý Kameň
+Moldava nad Bodvou
+Myjava
+Nemšová
+Nesvady
+Nitra
+Nová Baňa
+Nová Dubnica
+Nováky
+Nové Mesto
+Nové Mesto nad Váhom
+Nové Zámky
+Námestovo
+Partizánske
+Petržalka
+Pezinok
+Piešťany
+Podolínec
 Podunajské Biskupice
-Čunovo
+Poltár
+Poprad
+Považská Bystrica
+Prešov
+Prievidza
+Púchov
+Rajec
+Rajecké Teplice
+Rača
+Revúca
+Rimavská Sobota
+Rožňava
 Rusovce
 Ružinov
-Vrakuňa
-Bratislava
-Karlova Ves
-Jarovce
-Staré Mesto
-Petržalka
-Devínska Nová Ves
-Lamač
-Svätý Jur
-Nové Mesto
-Záhorská Bystrica
-Dúbravka
-Devín
-Vajnory
-Nitra
-Levice
-Bytča
-Moldava nad Bodvou
-Medzev
-Košice
-Šaľa
+Ružomberok
+Sabinov
+Senec
 Senica
-Lipany
+Sereď
+Sečovce
+Skalica
+Sliač
+Sládkovičovo
+Snina
+Sobrance
+Spišská Belá
+Spišská Nová Ves
+Spišská Stará Ves
+Spišské Podhradie
+Spišské Vlachy
+Stará Turá
+Stará Ľubovňa
+Staré Mesto
+Stropkov
+Strážske
+Stupava
+Svidník
+Svit
+Svätý Jur
+Tisovec
+Tlmače
+Topoľčany
+Tornaľa
+Trebišov
+Trenčianske Teplice
+Trenčín
+Trnava
+Trstená
+Turany
+Turzovka
+Turčianske Teplice
+Tvrdošín
+Vajnory
+Veľké Kapušany
+Veľký Krtíš
+Veľký Meder
+Veľký Šariš
+Vrakuňa
+Vranov nad Topľou
+Vrbové
+Vráble
+Vrútky
+Vysoké Tatry
+Zlaté Moravce
+Zvolen
+Záhorská Bystrica
+Čadca
+Čierna nad Tisou
+Čunovo
+Šahy
+Šamorín
+Šaľa
+Šaštín-Stráže
+Štúrovo
+Šurany
+Žarnovica
+Želiezovce
+Žiar nad Hronom
+Žilina
